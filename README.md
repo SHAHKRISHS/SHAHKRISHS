@@ -7,6 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SHAHKRISHS&label=Profile%20views&color=129e00&style=plastic" alt="SHAHKRISHS" /> </p>
+
+
 - 🌱 I’m currently learning **Cyber Security**
 
 - 👨‍💻 All of my projects are available at [https://shahkrishs.github.io/](https://shahkrishs.github.io/)
