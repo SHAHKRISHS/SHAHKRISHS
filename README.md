@@ -1,4 +1,3 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/imag...)](https://SHAHKRISHS.github.io)
 <h1 align="center">Hi 👋, I'm Krish Shah</h1>
 <h3 align="center">I am a programmer, developer in India. And I am currently exploring the Cyber Security Field.</h3>
 
