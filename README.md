@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SHAHKRISHS&label=Profile%20views&color=129e00&style=plastic" alt="SHAHKRISHS" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/10091971-Happy-Hacker?utm_source=Clipboard_Shot&utm_campaign=catalystvibes&utm_content=Happy%20Hacker%20%F0%9F%A4%97%F0%9F%92%BB%E2%98%A0&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=catalystvibes&utm_content=Happy%20Hacker%20%F0%9F%A4%97%F0%9F%92%BB%E2%98%A0&utm_medium=Social_Share">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 
 - 🌱 I’m currently learning **Cyber Security**
