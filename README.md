@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **shahkrish5500@gmail.com**
 
-- ⚡ Fun fact **I think I am playing with code.**
+- ⚡ Fun fact **I think I am in love with coding.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
